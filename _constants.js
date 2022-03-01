@@ -1,3 +1,4 @@
+// Copied/stolen from jenheilemann's scripts
 
 export const factionServers = {
   "CSEC"         : "CyberSec",
