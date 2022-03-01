@@ -1,3 +1,5 @@
+// Copied/stolen from jenheilemann's scripts
+
 /**
  * @param {integer} milliseconds to sleep
  * @cost 0 GB
