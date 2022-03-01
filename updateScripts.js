@@ -4,6 +4,8 @@ const filesToDownload = [
   '_helpers.js',
   '_constants.js',
   'hacknet.js',
+  'analyzeServer.js',
+  'netmap.js',
 ]
 const baseUrl = 'https://raw.githubusercontent.com/revooms/bitburner/'
 
